@@ -220,5 +220,6 @@ model.push_to_hub("my-username/my-model")
 - [Base Configuration Guide](base_config.md) - Deep dive into the configuration system
 - [Base Module Guide](base_module.md) - Understanding the base module class
 - [Customization Guide](customization.md) - How to customize and extend
+- [Research Changes Quickstart](research_quickstart.md) - Four methods for research changes
 - [Adding Your Own Model](adding_models.md) - Step-by-step guide to adding new models
 - [eLargeModel Guide](elarge_model.md) - High-level training API
